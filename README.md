@@ -6,7 +6,7 @@ Aplicación móvil desarrollada como proyecto académico cuyo objetivo es **mejo
 
 ## 👥 Autores  
 Proyecto desarrollado por:  
-- [Iván López Roldán]  
+- [Iván López Roldán](https://github.com/usuarioIvan)  
 - [Laura Lucas](https://github.com/Belirion) (@Belirion)  
 - [Darío Panadero](https://github.com/usuarioDario) (@darioBigData) 
 
